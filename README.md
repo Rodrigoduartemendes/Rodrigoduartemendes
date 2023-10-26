@@ -1,11 +1,11 @@
 
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/RodrigoduarteMendes/RodrigoduarteMendes/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
+<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/Rodrigoduartemendes/Rodrigoduartemendes/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
 &nbsp;&nbsp;&nbsp;
 
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=RodrigoduarteMendes&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-RodrigoduarteMendes.vercel.app/api/top-langs/?username=RodrigoduarteMendes&show_icons=true&theme=radical&layout=compact" />
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Rodrigoduartemendes&theme=radical&mode=weekly" />
+<img width=40% align="center" src="https://github-readme-stats-git-main-Rodrigoduartemendes.vercel.app/api/top-langs/?username=Rodrigoduartemendes&show_icons=true&theme=radical&layout=compact" />
  </div>
  
  &nbsp;
